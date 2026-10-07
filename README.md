@@ -1,4 +1,4 @@
-Batly Support
+#Batly Support
 Batly lives in your Mac's menu bar and wakes up when your battery gets low: at three levels you choose, a little pixel bat flies onto your screen so you can't miss it.
 
 Need help? Write to support@selmanustun.com. I read every message.
